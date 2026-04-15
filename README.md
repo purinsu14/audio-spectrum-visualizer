@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screen Shot 2026-04-15 at 15 29 24" src="https://github.com/user-attachments/assets/98594be2-96ae-4e22-9f8c-7923f068794e" />
 # Audio Spectrum Visualizer
 
 A real-time audio spectrum visualizer built with TypeScript, HTML5 Canvas, and the Web Audio API. 
